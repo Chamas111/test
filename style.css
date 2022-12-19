@@ -1,0 +1,21 @@
+h3 {
+  font-style: oblique;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.flexbox {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.header2 {
+  color: red;
+}
+
+.images {
+  width: 160px;
+  height: 200px;
+}
